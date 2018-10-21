@@ -1,5 +1,5 @@
 _repo: The-Two-Noble-Kinsmen_1542
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Athens (Greece) -- Drama'
 - !lcsh 'Tragicomedy'
 - !lcc 'PR'
+- GITenberg
 title: The Two Noble Kinsmen
 url: http://www.gutenberg.org/ebooks/1542
